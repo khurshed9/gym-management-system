@@ -39,6 +39,7 @@ GymManagementSystem/
 │   ├── ScheduleService.cs
 │   └── MembershipService.cs
 └── Program.cs
+```
 
 
 ## Classes Overview
